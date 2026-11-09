@@ -36,7 +36,7 @@
     <!-- JavaFX Controls -->
     <dependency>
       <groupId>org.openjfx</groupId>
-      <artifactId>javafx-controls</artifactId>
+      <artifactId>javafx-controls</artifactId>  
       <version>23.0.1</version>
     </dependency>
     <!-- JavaFX FXML -->
