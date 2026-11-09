@@ -1,3 +1,4 @@
+package Partie_1;
 
 public class Calculette {
 
