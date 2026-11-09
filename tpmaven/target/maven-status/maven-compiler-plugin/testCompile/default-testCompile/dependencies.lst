@@ -5,6 +5,7 @@ classpath:C:\Users\Elouan\.m2\repository\org\apache\commons\commons-csv\1.12.0\c
 classpath:C:\Users\Elouan\.m2\repository\commons-io\commons-io\2.17.0\commons-io-2.17.0.jar	515978:1726414269000
 classpath:C:\Users\Elouan\.m2\repository\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar	372687:1720801259000
 classpath:C:\Users\Elouan\.m2\repository\com\itextpdf\itextpdf\5.5.13.4\itextpdf-5.5.13.4.jar	2334415:1718282763000
+classpath:C:\Users\Elouan\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar	121070:1122889368000
 classpath:C:\Users\Elouan\.m2\repository\org\openjfx\javafx-controls\23.0.1\javafx-controls-23.0.1.jar	306:1794214345057
 classpath:C:\Users\Elouan\.m2\repository\org\openjfx\javafx-controls\23.0.1\javafx-controls-23.0.1-win.jar	2605857:1794214345480
 classpath:C:\Users\Elouan\.m2\repository\org\openjfx\javafx-graphics\23.0.1\javafx-graphics-23.0.1.jar	306:1794214345058
