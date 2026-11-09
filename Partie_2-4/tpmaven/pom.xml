@@ -26,6 +26,18 @@
       <artifactId>itextpdf</artifactId>
       <version>5.5.13.4</version>
     </dependency>
+    <!-- JavaFX Controls -->
+    <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-controls</artifactId>
+      <version>23.0.1</version>
+    </dependency>
+    <!-- JavaFX FXML -->
+    <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-fxml</artifactId>
+      <version>23.0.1</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
@@ -35,6 +47,15 @@
         <configuration>
           <source>23</source>
           <target>23</target>
+        </configuration>
+      </plugin>
+      <!-- Plugin pour exécuter JavaFX -->
+      <plugin>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-maven-plugin</artifactId>
+        <version>0.0.8</version>
+        <configuration>
+          <mainClass>fr.esir.omd.ci.App</mainClass>
         </configuration>
       </plugin>
     </plugins>
