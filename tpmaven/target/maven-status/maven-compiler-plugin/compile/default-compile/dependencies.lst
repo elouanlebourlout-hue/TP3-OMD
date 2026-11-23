@@ -12,3 +12,6 @@ classpath:C:\Users\Elouan\.m2\repository\org\openjfx\javafx-base\23.0.1\javafx-b
 classpath:C:\Users\Elouan\.m2\repository\org\openjfx\javafx-base\23.0.1\javafx-base-23.0.1-win.jar	756725:1794214345312
 classpath:C:\Users\Elouan\.m2\repository\org\openjfx\javafx-fxml\23.0.1\javafx-fxml-23.0.1.jar	302:1794214345277
 classpath:C:\Users\Elouan\.m2\repository\org\openjfx\javafx-fxml\23.0.1\javafx-fxml-23.0.1-win.jar	130608:1794214345381
+classpath:C:\Users\Elouan\.m2\repository\ch\qos\logback\logback-classic\1.5.12\logback-classic-1.5.12.jar	306214:1795417641743
+classpath:C:\Users\Elouan\.m2\repository\ch\qos\logback\logback-core\1.5.12\logback-core-1.5.12.jar	628983:1795417642261
+classpath:C:\Users\Elouan\.m2\repository\org\slf4j\slf4j-api\2.0.15\slf4j-api-2.0.15.jar	69519:1795417641985
