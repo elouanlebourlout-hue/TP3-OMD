@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.esir.omd.ci","l":"AppTest"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.esir.omd.ci","l":"FileHandlerTest"},{"p":"fr.esir.omd.ci","l":"TaskManagerTest"},{"p":"fr.esir.omd.ci","l":"TaskTest"}];updateSearchResults();
