@@ -27,7 +27,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 <span class="nc" id="L27">        try (CSVPrinter printer = new CSVPrinter(new FileWriter(filePath), CSVFormat.DEFAULT.builder().setHeader(&quot;Title&quot;, &quot;Description&quot;, &quot;Completed&quot;).build())) {</span>
 <span class="nc bnc" id="L28" title="All 2 branches missed.">            for (Task task : tasks) {</span>
 <span class="nc" id="L29">                printer.printRecord(task.getTitle(), task.getDescription(), task.isCompleted());</span>
-<span class="nc" id="L30">            }</span>
+            }
         }
 <span class="nc" id="L32">    }</span>
 
@@ -40,7 +40,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 <span class="fc" id="L40">            document.add(new Paragraph(&quot;Description: &quot; + task.getDescription()));</span>
 <span class="fc" id="L41">            document.add(new Paragraph(&quot;Completed: &quot; + task.isCompleted()));</span>
 <span class="fc" id="L42">            document.add(new Paragraph(&quot;\n&quot;));</span>
-<span class="fc" id="L43">        }</span>
+        }
 <span class="fc" id="L44">        document.close();</span>
 <span class="fc" id="L45">    }</span>
 }

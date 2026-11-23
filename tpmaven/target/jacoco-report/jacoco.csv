@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+tpmaven,fr.esir.omd.ci,FileHandler,82,64,2,2,8,11,3,3,2,2
+tpmaven,fr.esir.omd.ci,Task,0,33,0,0,0,14,0,7,0,7
+tpmaven,fr.esir.omd.ci,TaskManager,0,33,0,0,0,9,0,4,0,4
+tpmaven,fr.esir.omd.ci,App,28,0,0,0,8,0,3,0,3,0
+tpmaven,fr.esir.omd.ci,TaskController,108,0,8,0,26,0,11,0,6,0
